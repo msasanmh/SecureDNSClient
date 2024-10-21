@@ -29,7 +29,7 @@ Then install [ASP.NET Core Runtime x86 v6.0.35](https://dotnet.microsoft.com/en-
 [Microsoft .NET 6.0 Runtime Page](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 
 **Download:**\
-[Download latest version of DNSveil](https://github.com/msasanmh/SecureDNSClient/releases/latest)
+[Download latest version of DNSveil](https://github.com/msasanmh/DNSveil/releases/latest)
 
 ---
 
