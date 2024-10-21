@@ -1,11 +1,15 @@
 # DNSveil (formerly Secure DNS Client)
 
-![GitHub all releases](https://img.shields.io/github/downloads/msasanmh/SecureDNSClient/total)
-![GitHub top language](https://img.shields.io/github/languages/top/msasanmh/SecureDNSClient)
-![GitHub](https://img.shields.io/github/license/msasanmh/SecureDNSClient)
-![GitHub release (with filter)](https://img.shields.io/github/v/release/msasanmh/SecureDNSClient?link=https%3A%2F%2Fgithub.com%2Fmsasanmh%2FSecureDNSClient%2Freleases%2Flatest)
+![GitHub all releases](https://img.shields.io/github/downloads/msasanmh/DNSveil/total)
+![GitHub top language](https://img.shields.io/github/languages/top/msasanmh/DNSveil)
+![GitHub](https://img.shields.io/github/license/msasanmh/DNSveil)
+![GitHub release (with filter)](https://img.shields.io/github/v/release/msasanmh/DNSveil?link=https%3A%2F%2Fgithub.com%2Fmsasanmh%2FDNSveil%2Freleases%2Flatest)
 
 **A Secure DNS Client.** Using: _[Msmh Agnostic Server](https://github.com/msasanmh/MsmhAgnosticServer)_, _[DNSLookup](https://github.com/ameshkov/dnslookup)_ and _[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)_. (Windows only)
+
+---
+# Project Moved To https://github.com/msasanmh/DNSveil
+---
 
 Client implementation: _DNSCrypt, Anonymized DNSCrypt, DoH, DoT and Plain DNS (UDP & TCP)._<br>
 Server implementation: _DoH and Plain DNS (UDP & TCP)._
